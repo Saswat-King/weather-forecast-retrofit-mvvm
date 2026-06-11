@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="weather_info">
+📍 City: %1$s\n
+🌡️ Temperature: %2$.1f°C (%3$.1f°F)\n
+🌤️ Condition: %4$s\n
+💨 Wind Speed: %5$.1f km/h\n
+🕒 Time: %6$s\n
+</string>
+
+    <string name="error_message">❌ Error: %1$s</string>
+</resources>
