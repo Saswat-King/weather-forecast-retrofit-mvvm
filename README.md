@@ -10,10 +10,10 @@ A simple Android practice app built with Kotlin to fetch and display real-time w
 <table>
   <tr>
     <td align="center">
-      <img width="240" src="https://github.com/user-attachments/assets/bdce4e6d-aece-478f-84da-34e050c06c55">
+      <img width="250" src="https://github.com/user-attachments/assets/bdce4e6d-aece-478f-84da-34e050c06c55">
     </td>
     <td align="center">
-      <img width="240" src="https://github.com/user-attachments/assets/077ab416-e479-41e2-8e45-62ca001673b7">
+      <img width="250" src="https://github.com/user-attachments/assets/077ab416-e479-41e2-8e45-62ca001673b7">
     </td>
   </tr>
   <tr>
